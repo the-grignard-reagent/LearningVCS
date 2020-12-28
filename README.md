@@ -109,5 +109,4 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
-- [Raghav Agarwal](https://github.com/rag-hav)
-
+- [Suraj Sarmah Pathak]((https://github.com/the-grignard-reagent)
